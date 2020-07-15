@@ -10,7 +10,7 @@ cuDNN: 7.4
 Auto-agment: https://github.com/4uiiurz1/keras-auto-augment  
 Docker image: docker pull amir88/tf:keras_cu10.0-dnn7.4
 ## Reproducing the experiments:
-- Visualizing the training process:
+- Visualizing the training process:  
   python train_process.py
 - Hyperparameter search:  
   example:
