@@ -10,7 +10,7 @@ Tensorflow: 1.12.0
 Keras: 2.2.4  
 Cuda: 10.0   
 cuDNN: 7.4  
-Auto-agment: https://github.com/4uiiurz1/keras-auto-augment  
+Auto-augment: https://github.com/4uiiurz1/keras-auto-augment  
 Docker image: docker pull amir88/tf:keras_cu10.0-dnn7.4
 ## Reproducing experiments:
 - Visualizing the training process:  
