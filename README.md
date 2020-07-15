@@ -2,9 +2,7 @@
 This repository contains the code to reproduce the paper which can be found open access under the following link: https://ieeexplore.ieee.org/document/9133368
 ## Video presentation:
 
-<video controls="controls" style="margin-bottom:20px;width:590px">    
-         <source src="https://drive.google.com/file/d/1jekQdVLb9lerZOzH-1EG82yjqKbtTsal/view?usp=sharing" type="video/mp4"> 
-</video>
+[<img src=".jpg" width="50%">](https://drive.google.com/file/d/1jekQdVLb9lerZOzH-1EG82yjqKbtTsal/view?usp=sharing)
 
 ## Software requirements:
 Python: 3.6.5  
