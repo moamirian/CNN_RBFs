@@ -12,12 +12,12 @@ Docker image: docker pull amir88/tf:keras_cu10.0-dnn7.4
 ## Reproducing the experiments:
 - Visualizing the training process:
   python train_process.py
-- Hyperparameter search:
-  
+- Hyperparameter search:  
   example:
+    
 - Training a model for a dataset:  
   python run_experiment.py --parameters=values  
   example: python run_experiment.py --weights=imagenet --dataset=cifar100 --backbone=EfficientNet --augmentation=autogment --learning_rate=0.00002355 --weight_decay=1.090e-7 --rbf_dims=64 --batch_size=32 --loss_constant=0.1141 --centers=20 --dropout=0.0
-- Visualitzing the results:
+- Visualitzing the results:  
   python visualitzing.py --dataset=dataset_name --model_directory=directory_name  
   example: python visualization.py --dataset=cifar100 --model_dir=backbone_EfficientNet_rbf_dims_64_centers_20_learning_rate_2.355e-05_weights_imagenet_augmentation_autogment_ 
